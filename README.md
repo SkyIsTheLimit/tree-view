@@ -5,7 +5,7 @@ Install the parcel bundler by running:
 npm install -g parcel
 ```
 
-Then Start the application with:
+Then start the application with:
 ```js
 npm start
 ```
