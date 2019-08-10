@@ -1,0 +1,28 @@
+.tree-node {
+    clear: both;
+}
+
+.tree-node p,
+.tree-node span {
+    float: left;
+    padding: 5px;
+}
+
+.tree-node p,
+.tree-node span {
+    margin: 0;
+    cursor: pointer;
+}
+
+.tree-node p:hover,
+.tree-node span:hover {
+    background: #F0F0F0;
+}
+
+.tree-node span {
+    width: 10px;
+}
+
+.tree-node.collapsed .children {
+    display: none;
+}

@@ -1,0 +1,11 @@
+.app-content {
+    padding: 10px;
+    text-align: justify;
+}
+
+.app-content .breadcrumbs span {
+    display: inline-block;
+    padding: 5px 10px 5px 0;
+    font-style: italic;
+    color: #666;
+}

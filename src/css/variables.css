@@ -1,0 +1,10 @@
+:root {
+    /* App Level Variables */
+    --app-background-color: #F0F0F0;
+    --app-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    /* Tree Component Variables */
+    --navigation-separator-width: 2px;
+    --navigation-separator-color: #EEE;
+    --navigation-depth-indentation: 10px;
+}
